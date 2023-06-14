@@ -1,0 +1,3 @@
+# students_registration
+
+A simple students registration form to be filled and the details will be updated in the excel sheet.In this project we have to create excel sheet and examine the project in python project.We have to create a column name for excel sheet under function.cell represents the column of a excel sheet.from row2 we have to fix it by using focus_set .Focus set focuses the widget and makes them active until termination of the program.clear function had been included to clear the form after submit option had been enabled.under label ,form no,name,semester no etc was uploaded ansd entry box by using grid.The output will be update directly to the excel sheet
